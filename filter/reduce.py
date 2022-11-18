@@ -12,4 +12,3 @@ print(double)
 sum = reduce(lambda a, b:a+b, double)
 print(sum)
 
-
